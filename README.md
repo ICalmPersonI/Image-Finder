@@ -1,6 +1,6 @@
 # Image-Finder
 The app receives data using the [Google Custom Search JSON API](https://developers.google.com/custom-search/v1/overview).  
-You need to specify your own "cx" and "key" in the interface app/src/main/java/com/calmperson/imagefinder/model/networkapi/GoogleSearchApiInterface.kt.
+You need to specify your own "cx" and "key" in the interface:  app/src/main/java/com/calmperson/imagefinder/model/networkapi/GoogleSearchApiInterface.kt.
 ```kotlin
 interface GoogleSearchApiInterface {
 
