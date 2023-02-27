@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Image Finder</string>
+    <string name="search">Search</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="about_image">About image</string>
+    <string name="internet_connection_issue">Internet connection issue</string>
+
+    <string name="size">Size</string>
+    <string name="color">Color</string>
+    <string name="type">Type</string>
+    <string name="time">Time</string>
+
+    <string name="information_about_image">Information about image</string>
+    <string name="title">Title: %s</string>
+    <string name="context_link">Context link: %s</string>
+    <string name="byte_size">Byte size: %d</string>
+    <string name="image_format">Image format: %s</string>
+    <string name="height">Height: %d</string>
+    <string name="width">Width: %d</string>
+
+    <string name="any_size">Any size</string>
+    <string name="icon">Icon</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="huge">Huge</string>
+    <string name="large">Large</string>
+    <string name="xlarge">XLarge</string>
+    <string name="xxlarge">XXLarge</string>
+
+    <string name="any_color">Any color</string>
+    <string name="black">Black</string>
+    <string name="blue">Blue</string>
+    <string name="brown">Brown</string>
+    <string name="gray">Gray</string>
+    <string name="green">Green</string>
+    <string name="orange">Orange</string>
+    <string name="pink">Pink</string>
+    <string name="purple">Purple</string>
+    <string name="red">Red</string>
+    <string name="teal">Teal</string>
+    <string name="white">White</string>
+    <string name="yellow">Yellow</string>
+
+    <string name="any_type">Any type</string>
+    <string name="clipart">Clipart</string>
+    <string name="face">Face</string>
+    <string name="lineart">Lineart</string>
+    <string name="stock">Stock</string>
+    <string name="photo">Photo</string>
+
+    <string name="any_time">Any time</string>
+    <string name="past_day">Past day</string>
+    <string name="past_week">Past week</string>
+    <string name="past_month">Past month</string>
+    <string name="past_year">Past year</string>
+
+
+
+
+
+
+</resources>

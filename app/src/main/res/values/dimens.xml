@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="compact">20.sp</dimen>
+    <dimen name="medium">30.sp</dimen>
+    <dimen name="desktop">40.sp</dimen>
+</resources>
